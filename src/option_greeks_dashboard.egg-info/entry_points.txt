@@ -1,0 +1,2 @@
+[console_scripts]
+ogd = option_greeks_dashboard.ui.app:main
